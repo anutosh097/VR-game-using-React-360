@@ -1,1 +1,1 @@
-# MERN-VR-game-using-React-360
+# MERN VR game using React 360
